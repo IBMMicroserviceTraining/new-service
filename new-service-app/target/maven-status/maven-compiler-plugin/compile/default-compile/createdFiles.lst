@@ -1,0 +1,3 @@
+com\ibm\controller\impl\RestControllerImpl.class
+com\ibm\controller\config\abcdConfigRepo.class
+com\ibm\controller\ControllerApp.class

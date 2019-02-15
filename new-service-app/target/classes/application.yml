@@ -1,0 +1,23 @@
+my:
+ name: saket
+
+server:
+  port: 8900 
+--- 
+spring:
+  profiles: dev
+
+my:
+ name: vikrant
+---
+spring:
+  profiles: test
+  
+      
+my:
+ name: tinu
+
+---
+spring:
+  profiles:
+    active: dev 
